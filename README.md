@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoutubeSmokey
 - 👀 I’m interested in Games
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Websites And Games
 - 📫 How to reach me IG-milind_smokey
 
 <!---
